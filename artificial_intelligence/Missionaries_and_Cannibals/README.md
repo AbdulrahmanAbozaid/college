@@ -10,4 +10,4 @@ Configurations:
 
 ## How to Run
 in terminal type: `python main.py`
-<span style='color: red;font-size:10px'>Note: written in Python 3.12.1</span>
+_Note: written in Python 3.12.1_

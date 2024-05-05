@@ -1,5 +1,4 @@
 """Implementing A* on a maze"""
-from turtle import color
 from pyamaze import maze, agent, COLOR
 from util import PriorityQueue
 

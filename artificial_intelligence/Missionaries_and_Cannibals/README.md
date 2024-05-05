@@ -9,5 +9,5 @@ Configurations:
 			- Parent Node
 
 ## How to Run
-`python main.py`
-**Note: written in __Python 3.12.1__**
+in terminal type: `python main.py`
+<span style='color: red;font-size:10px'>Note: written in Python 3.12.1</span>

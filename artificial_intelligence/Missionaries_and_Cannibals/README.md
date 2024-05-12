@@ -10,4 +10,4 @@ Configurations:
 
 ## How to Run
 `python main.py`
-**Note: written in __Python 3.12.1__**
+_Note: written in Python 3.12.1_

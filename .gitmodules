@@ -1,0 +1,3 @@
+[submodule "field_training/Loose"]
+	path = field_training/Loose
+	url = https://github.com/AbdulrahmanAbozaid/LOOSE.git

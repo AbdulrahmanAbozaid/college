@@ -1,0 +1,8 @@
+# files
+*.csv
+
+# folders
+.old/
+experiments/
+testing/
+training/

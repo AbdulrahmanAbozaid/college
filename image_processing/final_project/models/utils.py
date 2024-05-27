@@ -8,7 +8,7 @@ def get_id(encode):
 	store = Encoder.get_encodes()
 
 	for k, v in store.items():
-		res = fr.compare_faces([v], encode, tolerance=0.55)
+		res = fr.compare_faces([v], encode, tolerance=0.45)
 		if not res:
 			continue
 		if res[0]==True:

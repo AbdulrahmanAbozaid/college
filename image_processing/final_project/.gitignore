@@ -3,6 +3,6 @@
 
 # folders
 .old/
-experiments/
-testing/
-training/
+/experiments/
+/testing/
+/training/

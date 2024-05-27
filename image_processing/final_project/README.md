@@ -14,15 +14,17 @@ The Face Recognition Attendance System is a computer vision-based application th
 - Python 3.6 or higher
 - Required Python packages (can be installed via `requirements.txt`):
   - face_recognition
-  - tkinter
-  - csv
+  - Pillow
+  - numpy
+  - tkintertable
 
 ## Installation
 
-1. **Clone the Repository**:
+Since this project is part of a larger directory that contains multiple projects (e.g., your college projects folder), follow these steps to set it up:
+
+1. **Navigate to the Project Directory**:
     ```bash
-    git clone https://github.com/yourusername/face-recognition-attendance-system.git
-    cd face-recognition-attendance-system
+    cd path/to/your/college-projects/face-recognition-attendance-system
     ```
 
 2. **Create a Virtual Environment**:
@@ -61,6 +63,14 @@ The Face Recognition Attendance System is a computer vision-based application th
   - `utils.py`: Utility functions for the application.
 - `README.md`: This file.
 - `requirements.txt`: Lists required Python packages.
+
+## Ignoring Folders in Git
+
+To ignore the `data` folder in the face-recognition-attendance-system project, add the following line to the `.gitignore` file in your main repository directory (e.g., `college-projects/.gitignore`):
+
+```plaintext
+face-recognition-attendance-system/data/
+```
 
 ## Contributing
 

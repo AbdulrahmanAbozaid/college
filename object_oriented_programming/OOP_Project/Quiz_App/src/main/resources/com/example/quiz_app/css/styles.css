@@ -1,0 +1,73 @@
+.nav {
+  -fx-background-color: #4672ff;
+}
+
+.sidebar {
+  -fx-background-color: #6690FF;
+}
+
+.btn {
+  -fx-background-color: transparent;
+  -fx-background-radius: 0 0 0 0;
+  -fx-background-insets: 0 0 0 0;
+  -fx-text-fill: #fff;
+  -fx-font-family: "Inter";
+  -fx-font-weight: 700;
+  -fx-font-size: 16px;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center 25%;
+  -fx-background-size: 30px 30px;
+}
+
+#btn1 {
+  -fx-background-image: url("../image/home.png");
+}
+
+#btn2 {
+  -fx-background-image: url("../image/create.png");
+}
+#btn3 {
+  -fx-background-image: url("../image/logout.png");
+}
+
+.btn:hover {
+  -fx-background-color: #ad929290;
+}
+
+.create-btn {
+  -fx-background-color: #ADBDB422;
+  -fx-background-radius: 5 5 5 5;
+  -fx-background-insets: 0 0 0 0;
+  -fx-font-family: "Inter";
+  -fx-font-weight: 700;
+  -fx-font-size: 15px;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center 10%;
+  -fx-background-size: 50px 51px;
+}
+
+#createbtn_2 {
+  -fx-background-image: url("../image/idea.png");
+  -fx-text-fill: #ab47bc;
+}
+
+#createbtn_1 {
+  -fx-text-fill: #26a69a;
+  -fx-background-image: url("../image/idea.png");
+}
+
+#createbtn_2:hover {
+  -fx-background-color: #ab47bc2b;
+}
+
+#createbtn_1:hover {
+  -fx-background-color: #26a69a2b;
+}
+
+.layer {
+  -fx-background-color: transparent;
+}
+
+.opened {
+  -fx-background-color: #3aaba02b;
+}

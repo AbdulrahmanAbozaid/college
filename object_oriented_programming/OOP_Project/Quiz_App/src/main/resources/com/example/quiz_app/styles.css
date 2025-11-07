@@ -1,0 +1,17 @@
+.border-radius {
+    -fx-background-radius: 5px;
+}
+
+.btn {
+    -fx-background-radius: 5px;
+    -fx-background-color: #001dd9a6;
+}
+.btn:hover {
+    -fx-background-color: #001DD9D3;
+}
+
+
+.answer {
+    -fx-border-color: #dfdfdf;
+    -fx-border-width: 0px 0px 1px 0px;
+}
